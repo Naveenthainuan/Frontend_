@@ -26,7 +26,7 @@ body {
 
 }
 .card:hover {
-   transform: perspective(800px) rotateY(70deg);
+   transform: perspective(800px) rotateY(180deg);
    /* transform: perspective(1000px) rotateX(100deg); */
 }
 
